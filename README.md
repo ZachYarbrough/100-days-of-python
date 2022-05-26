@@ -4,7 +4,7 @@ I purchased Dr. Angela Yen's 100 Days of Python class and am documenting what I 
 
 Each directory will be labeled day-001, day-002, day-003 and will have my scratch .py file along with whatever the challenge that day was.
 
-## Daily Blogs
+## Daily Takeaways
 
 <details>
 <summary>Day 1 - Console input and Variables</summary>
@@ -46,4 +46,7 @@ Each directory will be labeled day-001, day-002, day-003 and will have my scratc
     NameError: name 'Zach' is not defined
     ``` 
     After further researching the error I realized that it was because I was using the wrong version of python and python v2 needed `raw_input()` rather than just `input()`. For future refrence make sure you run scripts using `$ python3 main.py` rather than just `$python main.py`
+</details>
+<details>
+<summary>Day 2</summary>
 </details>
