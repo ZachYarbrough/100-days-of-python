@@ -53,6 +53,28 @@ Each directory will be labeled day-001, day-002, day-003 and will have my scratc
 <summary>Day 2 - Data Types and String Manipulation</summary>
 
 ### What I learned
-- 
+- I learned about the different Data Types in python
+    - They are vary similar to C# variables with a few exceptions
+    - Strings, Integers, Floats, and Booleans
+- I learned how to type cast with `str(1234)` or `int("1234")` and type check with `type("Hello")`
+- I learned about f-Strings which is very similar to a template literal but instead of using back ticks, you write it like this:
+```py
+variable = "variable"
+print(f"This is a f-String with a {variable} inside")
+```
+- I learned how to round ints and floats using `round()`, you can specify how many decimals with the second parameter like so:
+```py
+# Will return 1235
+round(1234.567)
+
+# Will return 1235.57
+round(1234.567, 2)
+```
+### Takeaways
+- You can use `_` as commas in long numbers, python will ignore any `_` in the output 
+```py
+# Will output 246913578 with no `_`
+print(123_456_789 + 123_456_789)
+```
 
 </details>
