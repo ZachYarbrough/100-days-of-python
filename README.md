@@ -46,7 +46,13 @@ Each directory will be labeled day-001, day-002, day-003 and will have my scratc
     NameError: name 'Zach' is not defined
     ``` 
     After further researching the error I realized that it was because I was using the wrong version of python and python v2 needed `raw_input()` rather than just `input()`. For future refrence make sure you run scripts using `$ python3 main.py` rather than just `$python main.py`
+
 </details>
+
 <details>
-<summary>Day 2</summary>
+<summary>Day 2 - Data Types and String Manipulation</summary>
+
+### What I learned
+- 
+
 </details>
