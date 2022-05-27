@@ -78,3 +78,19 @@ print(123_456_789 + 123_456_789)
 ```
 
 </details>
+
+<details>
+<summary>Day 3 - Control Flow and Logical Operators</summary>
+
+### What I learned
+- If statements work exactly the same as JS but with different syntax. They require a collon at the end of the if statement and rather than `{ }` for the content, you must indent all the code that is inside.
+    ```py
+    if 1 = 2:
+        print('1 = 2')
+    elif 1 = 1:
+        print('1 = 1')
+    else:
+        print('1 != 1 or 2')
+    ```
+- Rather than `&&` `||` and `!` logical operators are written in english like so `and` `or` `not`
+</details>
