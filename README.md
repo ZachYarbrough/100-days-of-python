@@ -94,3 +94,12 @@ print(123_456_789 + 123_456_789)
     ```
 - Rather than `&&` `||` and `!` logical operators are written in english like so `and` `or` `not`
 </details>
+
+<details>
+<summary>Day 4 - Randomisation and ython Lists</summary>
+
+### What I learned
+- You must import modules in python similar to importing files and packages in node. However, a lot of built in packages in node are not built in to python. For example, you must `import random` before you can use random methods
+- Random has to take into account int or float, you can do this by either using `random.randint(x. y)` for an int between x and y or `random.random()` for a float between 0 and 1
+- Lists in python work the exact same as arrays in JS
+</details>
