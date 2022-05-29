@@ -102,4 +102,27 @@ print(123_456_789 + 123_456_789)
 - You must import modules in python similar to importing files and packages in node. However, a lot of built in packages in node are not built in to python. For example, you must `import random` before you can use random methods
 - Random has to take into account int or float, you can do this by either using `random.randint(x. y)` for an int between x and y or `random.random()` for a float between 0 and 1
 - Lists in python work the exact same as arrays in JS
+
+</details>
+
+<details>
+<summary>Day 5 - Loops</summary>
+
+### What I learned
+- Loops are written much more simply:
+    ```py
+    fruits = ['Apple', 'Orange', 'Banana']
+
+    for fruit in fruits:
+        print(fruit)
+    ```
+- You can use `range()` to mimic a javascript like for loop:
+    ```py
+    # Will print numbers until it reaches 100
+    # range will not use the last digit in the second parameter (in this case 101, so the max is 100)
+    # The 3 parameter is how the number will be incremeneted
+    for number in range(1, 101, 1):
+        print(number)
+    ```
+
 </details>
