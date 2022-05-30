@@ -126,3 +126,15 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 6 - Functions</summary>
+
+### What I learned
+- Indentations are very important when using functions, 4 spaces (or 1 tab) is how you signify whether or not the content is inside a funciton or not
+    ```py
+    def my_function():
+        print("This is in a function")
+    ```
+
+</details>
