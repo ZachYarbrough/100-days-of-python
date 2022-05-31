@@ -87,7 +87,6 @@ while not end_of_game:
     for position in range(word_length):
         if user_input == chosen_word[position]:
             word_display[position] = user_input
-            
     print(hangman_ascii[hangman_step])
     print(' '.join(word_display))
     

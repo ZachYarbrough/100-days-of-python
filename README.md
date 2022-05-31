@@ -138,3 +138,19 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 7 - Hangman</summary>
+
+### What I learned
+- you can use `in` or `not in` to check if a string or character is in an array or string. I found this to be quite useful when creating the hangman project.
+    ```py
+    # Will return "string contains the word Test"
+    string = "Test String"
+    if "Test" not in string:
+        print("string does not contain the word Test")
+    else:
+        print("string contains the word Test")
+    ```
+
+</details>
