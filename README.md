@@ -154,3 +154,25 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 8 - Parameters</summary>
+
+### What I learned
+- Parameters do not have to be in order based on definition:
+    ```py
+    # Positional Parameters by default and read from left to right
+    # Will out put '1 2 3'
+    def position_params(a, b, c):
+        print(a, b, c)
+    position_parans(1, 2, 3)
+
+    # Keyword Parameters do not need to be in any order
+    # Will out put '3 1 2'
+    def position_params(a, b, c):
+        print(a, b, c)
+    position_parans(b=1, c=2, a=3)
+    
+    ```
+
+</details>
