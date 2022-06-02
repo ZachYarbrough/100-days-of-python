@@ -176,3 +176,35 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 9 - Dictionaries and Nesting</summary>
+
+### What I learned
+- Dictionaries are basically just javascript objects:
+    ```py
+        capital_dict = {
+            "France": "Paris",
+            "Germany": "Berlin"
+        }
+
+        # You can add key value pairs like this
+        capital_dict["Spain"] = "Madrid"
+    ```
+- If you pass a dictionary through a for loop it will only return the key:
+    ```py
+        capital_dict = {
+            "France": "Paris",
+            "Germany": "Berlin"
+        }
+
+        #This will print 'France' and 'Germany'
+        for country in capital_dict:
+            print(country)
+
+        #This will print 'Paris' and 'Berlin'
+        for capital in capital_dict:
+            print(capital_dict[capital])
+    ```
+
+</details>
