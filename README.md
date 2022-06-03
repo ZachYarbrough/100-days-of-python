@@ -208,3 +208,26 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 10 - Functions with Outputs</summary>
+
+### What I learned
+- `.title()` formats a string no matter the input to have every first letter of a word be capitalized and the rest will be lowercased
+    ```py
+        # This will output 'Zach Yarbrough'
+        def format_name(first_name, last_name):
+            return f"{first_name.title()} {last_name.title()}"
+        print(format_name("zACh", "YaRBRouGh"))
+
+    ```
+- You can write docstrings inside a function using 3 quotes like this: `"""This is a docstring"""` to write a breif description for your functions
+    ```py
+        def docstring_func(string):
+        """Returns a string when called"""
+        return string
+
+        docstring_func("Docsign Example")
+    ```
+
+</details>
