@@ -231,3 +231,12 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 11 - Blackjack Capstone Project</summary>
+
+### Takeaways
+- After 10 days of python, I am finding it really enjoyable. For this capstone project, we had to build the game of Blackjack and this required me to use pretty much everything I had learned previously, from functions to variables.
+- I can not wait to get more in depth with python and its nuances. I find the language much more readable and easy to understand than javascript
+
+</details>
