@@ -240,3 +240,32 @@ print(123_456_789 + 123_456_789)
 - I can not wait to get more in depth with python and its nuances. I find the language much more readable and easy to understand than javascript
 
 </details>
+
+<details>
+<summary>Day 12 - Local and Global Scope</summary>
+
+### What I learned
+- You have to make a variable a global scope inside the function for you to use it
+    ```py
+    global_var = 1
+    # Will return 2
+    def global_function():
+        global global_var
+        return global_var += 1
+    function()
+
+    local_var = 1
+    def local_function():
+        local_var = 2
+    # Will print out 2
+    local_function()
+    # Will print out 1
+    print(local_var)
+    ```
+- You can make a constant by writing the variable name all uppercase:
+    ```py
+    CONSTANT_VARIABLE = 3
+    print(CONSTANT_VARIABLE)
+    ```
+
+</details>
