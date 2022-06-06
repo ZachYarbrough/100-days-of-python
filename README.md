@@ -269,3 +269,11 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 13 - Debuggin</summary>
+
+### What I learned
+- Today was learning about debugging, however I am already very familiar with debugging code while working with javascript. There were some cementing concepts that were good to go over, but in general I did not learn anythin new this lesson
+
+</details>
