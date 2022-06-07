@@ -277,3 +277,11 @@ print(123_456_789 + 123_456_789)
 - Today was learning about debugging, however I am already very familiar with debugging code while working with javascript. There were some cementing concepts that were good to go over, but in general I did not learn anythin new this lesson
 
 </details>
+
+<details>
+<summary>Day 14 - Higher or Lower Game</summary>
+
+### Takeaways
+- I decided to use a while loop rather than recursion this time. I found that I had been using recursion to solve all the problems in the course work and the instructor kept using while loops instead. So I figured I would instead use a while loop to check if the user is still playing and it worked extremely well.
+
+</details>
