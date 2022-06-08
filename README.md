@@ -285,3 +285,11 @@ print(123_456_789 + 123_456_789)
 - I decided to use a while loop rather than recursion this time. I found that I had been using recursion to solve all the problems in the course work and the instructor kept using while loops instead. So I figured I would instead use a while loop to check if the user is still playing and it worked extremely well.
 
 </details>
+
+<details>
+<summary>Day 15 - Coffee Machine</summary>
+
+### Takeaways
+- The coffee machine project was fairly simple. I am still really enjoying python and can not wait to get much mor in depth in later days.
+
+</details>
