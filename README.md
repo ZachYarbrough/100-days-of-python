@@ -298,6 +298,17 @@ print(123_456_789 + 123_456_789)
 <summary>Day 16 - Object Oriented Programming</summary>
 
 ### Takeaways
-- The coffee machine project was fairly simple. I am still really enjoying python and can not wait to get much mor in depth in later days.
+- We learned about OOP today. It is very straight forward after my experience with it in javascript. With a few differences:
+- For example, instead of a constructor method where you define all of your attributes, python uses the __init__ method and you need to pass `self` inside the __init__ parameters as well.
+    ```py
+    class Student:
+        def __init__(self, name, age)"
+            self.name = name
+            self.age = age
+    
+    student = Student("Zach", 22)
+    # This will print out `Zach`
+    print(student.name)
+    ```
 
 </details>
