@@ -293,3 +293,11 @@ print(123_456_789 + 123_456_789)
 - The coffee machine project was fairly simple. I am still really enjoying python and can not wait to get much mor in depth in later days.
 
 </details>
+
+<details>
+<summary>Day 16 - Object Oriented Programming</summary>
+
+### Takeaways
+- The coffee machine project was fairly simple. I am still really enjoying python and can not wait to get much mor in depth in later days.
+
+</details>
