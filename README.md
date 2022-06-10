@@ -312,3 +312,11 @@ print(123_456_789 + 123_456_789)
     ```
 
 </details>
+
+<details>
+<summary>Day 17 - Creating Classes</summary>
+
+### Takeaways
+- I touched on creating classes yesterday and I think it is very simple. There is not much different when compared to JS.
+
+</details>
