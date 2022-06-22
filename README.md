@@ -328,3 +328,14 @@ print(123_456_789 + 123_456_789)
 - This lesson was getting me comfortable importing/installing python modules (packages in node)
 
 </details>
+
+<details>
+<summary>Day 19 - Turtle Race</summary>
+
+- I took a break from learning python so I could focus on data structures and algorithms for my amazon interview loop. However this was a fun lesson to get back in the rythmn.
+
+### What I learned
+- We learned more about the turtle package and it seems to be a fun package for creating simple games
+- We touched on event listeners that watch for key inputs
+
+</details>
