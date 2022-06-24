@@ -339,3 +339,11 @@ print(123_456_789 + 123_456_789)
 - We touched on event listeners that watch for key inputs
 
 </details>
+
+<details>
+<summary>Day 20 - Snake Game</summary>
+
+### What I learned
+- There is a time module you can use `import time` that will allow you to increment easily and do other things related to time
+
+</details>
