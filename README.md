@@ -347,3 +347,11 @@ print(123_456_789 + 123_456_789)
 - There is a time module you can use `import time` that will allow you to increment easily and do other things related to time
 
 </details>
+
+<details>
+<summary>Day 21 - Snake Game Part 2</summary>
+
+### What I learned
+- It is difficult to import files across directories
+
+</details>
